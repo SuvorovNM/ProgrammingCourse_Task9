@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Task9
 {
-    class LPoint//Двунаправленный список
+    class LPoint//Двунаправленный список 
     { 
         public int data;//Информация в текущем элементе
         public LPoint next, pred;//Ссылки на следующий и предыдущий элементы
